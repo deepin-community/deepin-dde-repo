@@ -1,0 +1,7 @@
+Name: apricot
+Suite: apricot
+Architectures: amd64 source
+Components: main
+UDebComponents: main
+Method: https://deepin-community.github.io/deepin-dde-repo
+VerifyRelease: blindtrust
